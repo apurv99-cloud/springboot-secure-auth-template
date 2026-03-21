@@ -117,7 +117,7 @@ Password: your_password
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 *  JWT Authentication
 *  Role-Based Access Control (ADMIN / USER)
